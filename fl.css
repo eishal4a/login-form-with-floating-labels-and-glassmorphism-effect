@@ -31,6 +31,11 @@
     {
     padding: 15px;
     margin-top: -700px;
+    backdrop-filter: blur(17px) saturate(200%);
+    -webkit-backdrop-filter: blur(17p) saturate(200%);
+    background-color: rgba(190, 198, 199, 0.44);
+    border-radius: 12px;
+    border: 1px solid rgba(255, 255, 255, 0.125);
     }
     .form-group 
     {
