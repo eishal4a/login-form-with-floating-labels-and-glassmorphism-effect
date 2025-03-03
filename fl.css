@@ -1,9 +1,13 @@
 .body{ 
-    background: url(./fitness.jpg);
 
     color: white;
     
     background-size: cover;
+}
+.bg{
+    width: 1527px;
+    height: 600px;
+    margin: 0px 0px;
 }
 .container{
     
